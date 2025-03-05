@@ -7,11 +7,10 @@ description: Facilitating communication of content preferences regarding AI trai
 <div class="container">
 <div class="row">
 
-  <div class="col-lg-2"></div>
   <div class="col-lg-8">
     <h1>The <a href="http://www.ietf.org/">IETF</a> <strong>AI Preferences Working Group</strong></h1>
   </div>
-  <div class="col-lg-2"></div>
+  <div class="col-lg-4"></div>
 
 </div>
 

@@ -9,7 +9,6 @@ Before doing so, it's a good idea to familiarize yourself with our [charter](htt
 
 **Be aware that all contributions fall under the "NOTE WELL" terms outlined below.**
 
-
 ## Code of Conduct
 
 The [IETF Guidelines for Conduct](https://www.rfc-editor.org/rfc/rfc7154.html) applies to all Working Group communications and meetings.

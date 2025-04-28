@@ -28,7 +28,6 @@ description: Facilitating communication of content preferences regarding AI trai
 	<div class="col-md-6">
 		<h2>👋 Participate</h2>
 		<p>Want to get involved? Join us!</p>
-    <p><strong>NOTE</strong>: <em>Substantive discussion in issues is strongly discouraged; please use the mailing list.</p>
 		<ul>
 			<li>Learn <a href="/CONTRIBUTING.html">how to contribute</a> <span class="badge bg-warning">start here</span></li>
 			<li>See our <a href="http://datatracker.ietf.org/wg/aipref/charter/">charter</a></li>

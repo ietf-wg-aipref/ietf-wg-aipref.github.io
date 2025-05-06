@@ -22,7 +22,10 @@ description: Facilitating communication of content preferences regarding AI trai
 	
 	<div class="col-md-6">
 		<h2>👷‍♀️ Work In Progress</h2>
-		<p><em>under construction</em></p>
+    <ul>
+      <li><strong>Vocabulary</strong>: <a href="https://ietf-wg-aipref.github.io/drafts/#go.draft-ietf-aipref-vocab.html">Editor's Copy</a> | <a href="https://datatracker.ietf.org/doc/draft-ietf-aipref-vocab">Datatracker</a></li>
+    </ul>
+    <p><em>See also our <a href="https://github.com/ietf-wg-aipref/drafts/">drafts repository</a>.</em></p>
 	</div>
 
 	<div class="col-md-6">

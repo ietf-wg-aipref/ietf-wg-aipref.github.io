@@ -96,7 +96,7 @@ When attending a meeting, please follow these guidelines:
 * Avoid speaking over other participants, and avoid having side conversations
 * Identify yourself clearly when first speaking
 
-Meetings will be minuted. Please consider volunteering to help keep minutes, and be sure to check the draft minutes for accuracy regarding any statements yo make. 
+Meetings will be minuted. Please consider volunteering to help keep minutes, and be sure to check the draft minutes for accuracy regarding any statements you make. 
 
 Note that per above, decisions are not made in meetings; rather, they are confirmed on the mailing list. In a meeting, we only get a 'sense of the room.'
 
